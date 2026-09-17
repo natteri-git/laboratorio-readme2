@@ -1,4 +1,4 @@
-# 📚 Biblioteca Fácil
+# Biblioteca Fácil
 
 Biblioteca Fácil es una aplicación web que permite gestionar libros de una biblioteca de manera sencilla y organizada.  
 Permite registrar libros, consultar su disponibilidad y controlar los préstamos realizados por los usuarios.
@@ -15,13 +15,13 @@ Permite registrar libros, consultar su disponibilidad y controlar los préstamos
 - [Arquitectura](#arquitectura)
 - [Contribuidores](#contribuidores)
 
-## 📝 Descripción
+## Descripción
 
 Biblioteca Fácil es un proyecto pensado para facilitar la administración de una biblioteca.
 La aplicación permite gestionar el catálogo de libros y llevar un control básico de los préstamos.
 Su objetivo es ofrecer una interfaz sencilla y fácil de utilizar.
 
-## ⚙️ Instalación
+## Instalación
 
 Para instalar y ejecutar el proyecto localmente, sigue estos pasos:
 
